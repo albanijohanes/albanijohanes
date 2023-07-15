@@ -10,7 +10,7 @@
 <ul>
   <li><a href="https://github.com/albanijohanes/crud-laravel">Crud-laravel</a></li>
   <li><a href="https://github.com/albanijohanes/laravel-react-api-crud">Crud laravel with front-end react and API</a></li>
-  <li><a href="https://github.com/albanijohanes/project_gemastik">Porter Application featuring Roma Mantiri as the leader</a><span>The web: touleos.great-site.net</span></li>
+  <li><a href="https://github.com/albanijohanes/project_gemastik">Porter Application featuring Roma Mantiri as the leader</a><span> The web: touleos.great-site.net</span></li>
   <li><a href="https://github.com/albanijohanes/riversky-laravel">Riversky as Information Application use laravel</a></li>
 </ul>
 <h5>CNN Projects</h5>
@@ -27,7 +27,7 @@
   <li><a href="https://github.com/albanijohanes/Arduino-Card-Detector">Card Detector Using Arduino as Door Security</a></li>
   <li><a href="https://github.com/albanijohanes/Riversky">PHP Native for web Riversky</a></li>
   <li><a href="https://github.com/albanijohanes/MVC_Sederhana">Project Simple MVC</a></li>
-  <li><a href="https://github.com/albanijohanes/ProjectAutomataNFA">NFA Checker</a><span>The web: albani.epizy.com/</span></li>
+  <li><a href="https://github.com/albanijohanes/ProjectAutomataNFA">NFA Checker</a><span> The web: albani.epizy.com/</span></li>
   <li><a href="https://github.com/albanijohanes/UAS-Programming">Project Final for Programming Semester 1</a></li>
   <li><a href="https://github.com/albanijohanes/Clock-Digital-Tkinter">Make a Clock Digital GUI using Python TKinter</a></li>
   <li><a href="https://github.com/albanijohanes/Sorting-Python">Make a InsertionSort and BubbleSort</a></li>
