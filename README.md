@@ -10,13 +10,13 @@
 <ul>
   <li><a href="https://github.com/albanijohanes/crud-laravel">Crud-laravel</a></li>
   <li><a href="https://github.com/albanijohanes/laravel-react-api-crud">Crud laravel with front-end react and API</a></li>
-  <li><a href="https://github.com/albanijohanes/project_gemastik">Porter Application featuring Roma Mantiri as the leader</a><span> The web: touleos.great-site.net</span></li>
+  <li><a href="https://github.com/albanijohanes/project_gemastik">Porter Application featuring Roma Mantiri as Team Leader</a><span> The web: touleos.great-site.net</span></li>
   <li><a href="https://github.com/albanijohanes/riversky-laravel">Riversky as Information Application use laravel</a></li>
 </ul>
 <h5>CNN Projects</h5>
 <ul>
   <li><a href="https://github.com/albanijohanes/Identification-Banana">Identification Banana Using CNN</a></li>
-  <li><a href="https://github.com/romanouke/Identifikasi-Suara-Burung-Weris">Identification of the Weris Bird Song using CNN and Mel-Frequency Cepstral Coefficients featuring Roma Mantiri as Leader Team</a></li>
+  <li><a href="https://github.com/romanouke/Identifikasi-Suara-Burung-Weris">Identification of the Weris Bird Song using CNN and Mel-Frequency Cepstral Coefficients featuring Roma Mantiri as Team Leader</a></li>
 </ul>
 <h5>Mobile Dev Projects</h5>
 <ul>
