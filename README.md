@@ -16,7 +16,7 @@
 <h5>CNN Projects</h5>
 <ul>
   <li><a href="https://github.com/albanijohanes/Identification-Banana">Identification Banana Using CNN</a></li>
-  <li><a href="https://github.com/romanouke/Identifikasi-Suara-Burung-Weris">Identification of the Weris Bird Song using CNN and Mel-Frequency Cepstral Coefficients</a></li>
+  <li><a href="https://github.com/romanouke/Identifikasi-Suara-Burung-Weris">Identification of the Weris Bird Song using CNN and Mel-Frequency Cepstral Coefficients featuring Roma Mantiri as Leader Team</a></li>
 </ul>
 <h5>Mobile Dev Projects</h5>
 <ul>
