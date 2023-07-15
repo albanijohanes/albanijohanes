@@ -1,16 +1,25 @@
-### Hi there 👋
+<h2>Hi there 👋</h2>
 
-<!--
-**albanijohanes/albanijohanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>My Name is Albani Boutje Johanes</p>
+<br>
+<p>I'm a Junior Developer,and currently studying at Information System University Sam Ratulangi.  </p>
+<br>
+<p>I'm interested in Web Development and Artificial Intellegence/p>
 
-Here are some ideas to get you started:
+<h3>Here is the project that i made</h3>
+<h5>Laravel Project</h5>
+<ul>
+  <li><a href="https://github.com/albanijohanes/crud-laravel">Crud-laravel</a></li>
+  <li><a href="https://github.com/albanijohanes/laravel-react-api-crud">Crud laravel with front-end react and API</a></li>
+  <li><a href="https://github.com/albanijohanes/project_gemastik">Porter Application featuring Roma Mantiri as the leader</a></li>
+  <li><a href="https://github.com/albanijohanes/riversky-laravel">Riversky as Information Application use laravel</a></li>
+</ul>
+<br>
+<h5>CNN Projects</h5>
+<ul>
+  <li><a href="https://github.com/albanijohanes/Identification-Banana">Identification Banana Using CNN</a></li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Thanks for come to my Github </h2>
+
+
