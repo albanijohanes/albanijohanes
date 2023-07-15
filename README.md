@@ -2,7 +2,7 @@
 
 <p>My Name is Albani Boutje Johanes</p>
 <br>
-<p>I'm a Junior Developer,and currently studying at Information System University Sam Ratulangi.  </p>
+<p>I'm a Junior Developer,and currently studying at University Sam Ratulangi Majoring Information System.  </p>
 <p>I'm interested in Web Development and Artificial Intellegence</p>
 
 <h3>Here is the project that i made</h3>
