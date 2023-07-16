@@ -6,13 +6,15 @@
 <p>I'm interested in Web Development and Artificial Intellegence</p>
 
 <h3>Here is the project that i made</h3>
-<h5>Laravel Project</h5>
-<ul>
-  <li><a href="https://github.com/albanijohanes/crud-laravel">Crud-laravel</a></li>
-  <li><a href="https://github.com/albanijohanes/laravel-react-api-crud">Crud laravel with front-end react and API</a></li>
-  <li><a href="https://github.com/albanijohanes/project_gemastik">Porter Application featuring Roma Mantiri as Team Leader</a><span> The web: touleos.great-site.net</span></li>
-  <li><a href="https://github.com/albanijohanes/riversky-laravel">Riversky as Information Application use laravel</a></li>
-</ul>
+<detail>
+  <summary>Laravel Project</summary>
+  <ul>
+    <li><a href="https://github.com/albanijohanes/crud-laravel">Crud-laravel</a></li>
+    <li><a href="https://github.com/albanijohanes/laravel-react-api-crud">Crud laravel with front-end react and API</a></li>
+    <li><a href="https://github.com/albanijohanes/project_gemastik">Porter Application featuring Roma Mantiri as Team Leader</a><span> The web: touleos.great-site.net</span></li>
+    <li><a href="https://github.com/albanijohanes/riversky-laravel">Riversky as Information Application use laravel</a></li>
+  </ul>
+</detail>
 <h5>CNN Projects</h5>
 <ul>
   <li><a href="https://github.com/albanijohanes/Identification-Banana">Identification Banana Using CNN</a></li>
