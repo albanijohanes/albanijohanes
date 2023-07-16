@@ -16,26 +16,34 @@
       <li><a href="https://github.com/albanijohanes/riversky-laravel">Riversky as Information Application use laravel</a></li>
   	</ul>	
 </details>
-<h5>CNN Projects</h5>
-<ul>
-  <li><a href="https://github.com/albanijohanes/Identification-Banana">Identification Banana Using CNN</a></li>
-  <li><a href="https://github.com/romanouke/Identifikasi-Suara-Burung-Weris">Identification of the Weris Bird Song using CNN and Mel-Frequency Cepstral Coefficients featuring Roma Mantiri as Team Leader</a></li>
-</ul>
-<h5>Mobile Dev Projects</h5>
-<ul>
-  <li><a href="https://github.com/romanouke/BroCAF-Apps">BroCAF Application featuring Roma Mantiri as the Scrum Master</a></li>
-</ul>
-<h5>Other Projects</h5>
-<ul>
-  <li><a href="https://github.com/albanijohanes/Arduino-Card-Detector">Card Detector Using Arduino as Door Security</a></li>
-  <li><a href="https://github.com/albanijohanes/Riversky">PHP Native for web Riversky</a></li>
-  <li><a href="https://github.com/albanijohanes/MVC_Sederhana">Project Simple MVC</a></li>
-  <li><a href="https://github.com/albanijohanes/ProjectAutomataNFA">NFA Checker</a><span> The web: albani.epizy.com</span></li>
-  <li><a href="https://github.com/albanijohanes/UAS-Programming">Project Final for Programming Semester 1</a></li>
-  <li><a href="https://github.com/albanijohanes/Clock-Digital-Tkinter">Make a Clock Digital GUI using Python TKinter</a></li>
-  <li><a href="https://github.com/albanijohanes/Sorting-Python">Make a InsertionSort and BubbleSort</a></li>
-  <li><a href="https://github.com/albanijohanes/Calculator-Python-Tkinter">Make a Calculator GUI using Python TKinter</a></li>
-</ul>
+
+<details>
+  <summary><b>CNN Projects</b></summary>
+    <ul>
+      <li><a href="https://github.com/albanijohanes/Identification-Banana">Identification Banana Using CNN</a></li>
+      <li><a href="https://github.com/romanouke/Identifikasi-Suara-Burung-Weris">Identification of the Weris Bird Song using CNN and Mel-Frequency Cepstral Coefficients featuring Roma Mantiri as Team Leader</a></li>
+    </ul>
+</details>
+<details>
+  <summary><b>Mobile Dev Projects</b></summary>
+    <ul>
+      <li><a href="https://github.com/romanouke/BroCAF-Apps">BroCAF Application featuring Roma Mantiri as the Scrum Master</a></li>
+    </ul>
+</details>
+<details>
+  <summary><b>Other Projects</b></summary>
+    <ul>
+      <li><a href="https://github.com/albanijohanes/Arduino-Card-Detector">Card Detector Using Arduino as Door Security</a></li>
+      <li><a href="https://github.com/albanijohanes/Riversky">PHP Native for web Riversky</a></li>
+      <li><a href="https://github.com/albanijohanes/MVC_Sederhana">Project Simple MVC</a></li>
+      <li><a href="https://github.com/albanijohanes/ProjectAutomataNFA">NFA Checker</a><span> The web: albani.epizy.com</span></li>
+      <li><a href="https://github.com/albanijohanes/UAS-Programming">Project Final for Programming Semester 1</a></li>
+      <li><a href="https://github.com/albanijohanes/Clock-Digital-Tkinter">Make a Clock Digital GUI using Python TKinter</a></li>
+      <li><a href="https://github.com/albanijohanes/Sorting-Python">Make a InsertionSort and BubbleSort</a></li>
+      <li><a href="https://github.com/albanijohanes/Calculator-Python-Tkinter">Make a Calculator GUI using Python TKinter</a></li>
+    </ul>
+</details>
+
 
 <h2>Thanks for come to my Github</h2>
 
