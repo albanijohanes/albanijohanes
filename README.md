@@ -2,7 +2,11 @@
 
 <p>My Name is Albani Boutje Johanes</p>
 <br>
-<p>I'm a Junior Developer,and currently studying at University Sam Ratulangi Majoring Information System.  </p>
+<p>
+  Student from sam ratulangi university majoring in information systems, interested in the field of software developers, data sciences, and web developers. has skills in project management, and project planning which usually uses Agile and Scrum methods. Other skills are fullstack and machine learning developer. no internship experience yet but have learned many things in processing and creating projects.
+
+Translated with www.DeepL.com/Translator (free version)
+</p>
 <p>I'm interested in Web Development and Artificial Intellegence</p>
 
 # 🌐 Social:
