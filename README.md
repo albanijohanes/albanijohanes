@@ -3,7 +3,7 @@
 <p>My Name is Albani Boutje Johanes</p>
 <br>
 <p>
-  Student from sam ratulangi university majoring in information systems, interested in the field of software developers, data sciences, and web developers. has skills in project management, and project planning which usually uses Agile and Scrum methods. Other skills are fullstack and machine learning developer. no internship experience yet but have learned many things in processing and creating projects.
+  Student from sam ratulangi university majoring in Computer Sciences, interested in the field of software developers, data sciences, and web developers. has skills in project management, and project planning which usually uses Agile and Scrum methods. Other skills are fullstack and machine learning developer. no internship experience yet but have learned many things in processing and creating projects.
 </p>
 
 # 🌐 Social:
